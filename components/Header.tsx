@@ -34,15 +34,7 @@ export const Header = () => {
       <div className="mx-auto flex justify-between items-center">
         <div>
           <h1 className="text-xl flex sm:text-2xl sm:font-bold antialiased font-semibold">
-            <Link
-              href="https://sdk.vercel.ai"
-              className="flex items-center mr-2 hover:opacity-75"
-              target="_blank"
-            >
-              <SparklesIcon />
-              AI SDK
-            </Link>
-            Image Generator
+            Story Image Generator
           </h1>
         </div>
       </div>

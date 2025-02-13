@@ -1,6 +1,6 @@
-<h1 align='center'>AI Image Generator</h1>
+<h1 align='center'>Story Image Generator</h1>
 <p align="center">
-  An AI image generation app built with Next.js, the AI SDK, and various AI providers (Replicate, Fireworks, Google Vertex AI, OpenAI).
+  An AI story image generation app built with Next.js, the AI SDK, and various AI providers (Replicate, Fireworks, Google Vertex AI, OpenAI).
 </p>
 
 <p align="center">
